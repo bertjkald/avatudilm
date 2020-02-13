@@ -1,0 +1,23 @@
+{
+  "name": "avatudilm",
+  "version": "1.0.0",
+  "description": "ilm Tallinnas reTardus ja Pärnus",
+  "main": "server.js",
+  "scripts": {
+    "test": "yes",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "avatudIl",
+    "API",
+    "praegune"
+  ],
+  "author": "Yes",
+  "license": "Our Equally shared among the proletarian",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
